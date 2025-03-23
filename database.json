@@ -1,7 +1,12 @@
-[
-  {
-    "username": "hokage",
-    "password": "bot",
-    "ip": "110.139.66.203"
-  }
-]
+{
+    "pairedNumbers": {
+        "6287761111433": {
+            "paired": false,
+            "approved": true
+        },
+        "6281234567890": {
+            "paired": false,
+            "approved": false
+        }
+    }
+}
